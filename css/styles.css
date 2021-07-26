@@ -452,7 +452,7 @@ a.expand { display: block; position: absolute; z-index: 100; text-align: center;
 /* ==========================================================================
 Subscribe
 ========================================================================== */
-.subscribe { background: url('../img/keyboard-bg.jpg') no-repeat center center; 
+.subscribe { background: url('../img/TAS.png') no-repeat center center; 
 -webkit-background-size: cover;
  -moz-background-size: cover; 
  -o-background-size: cover; 
